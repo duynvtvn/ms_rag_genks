@@ -8,4 +8,4 @@ Quy trình:
 
 Mô hình kiến trúc tổng quan
 
-![img_1.png](img_1.png)
+![img_1.png](ra-genks_architecture.png)
